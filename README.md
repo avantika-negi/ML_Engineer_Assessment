@@ -39,7 +39,8 @@ or changes in user preferences.
 
 ### System Flow Diagram
 
-![Recommendation System Flow](images/recommendation_flowchart.png)
+![Recommendation System Flow](recommendation_flowchart.png)
+
 
 
 
